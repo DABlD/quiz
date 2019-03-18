@@ -16,7 +16,7 @@
 
       <!-- LINKS -->
       <ul class="nav navbar-nav">
-        <li class="active"><a href="quizzes.php">Quizzes <span class="sr-only">(current)</span></a></li>
+        <li class="active"><a href="index.php">Quizzes <span class="sr-only">(current)</span></a></li>
         <li><a href="logout.php">Logout</a></li>
       </ul>
 
